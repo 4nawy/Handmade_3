@@ -1,0 +1,10 @@
+.pageTitle {
+	text-align: center;
+}
+
+#login-form {
+	box-shadow: #000 1px;
+	border: #0069D9 solid 1px;
+	padding: 20px;
+	border-radius: 10px;
+}
